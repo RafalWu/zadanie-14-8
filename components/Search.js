@@ -4,6 +4,7 @@ Search = React.createClass({
   return {
     searchingText: ''
   };
+},
 
 handleChange: function(event) {
     var searchingText = event.target.value;
