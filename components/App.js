@@ -1,5 +1,5 @@
 var GIPHY_API_URL = "https://api.giphy.com",
-    GIPHY_PUB_KEY = ""; // należy dodać pub key z serwisu giphy.com
+    GIPHY_PUB_KEY = "x1qiDYnvBfSu5hvTHOMuQiGFMByQtckb"; // należy dodać pub key z serwisu giphy.com
 
 App = React.createClass({
 	
